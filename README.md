@@ -9,9 +9,11 @@ Configuration: 26s5p (≈ 96V nominal)
 
 Cells: High-discharge lithium-ion cells
 
-Capacity: (Specify Ah here if known)
+Capacity: ~ 2Kwh
 
-Voltage range: ~ 91V – 109V (depending on cell chemistry)
+Current: const 225A, peak 450A
+
+Voltage range: 78 – 110V , 96V nominal
 
 Cooling: Active air cooling with high-efficiency fans
 
@@ -29,7 +31,7 @@ Custom-built smart BMS with:
 
 ⚡ Current sensor for live monitoring and protection
 
-📊 Ready for CAN / UART communication (optional, if applicable)
+📊 Ready for CAN 
 
 🛡️ Safety Features
 
